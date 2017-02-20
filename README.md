@@ -1,4 +1,4 @@
 # JavaScript Algorithms
 
 ## Bubble Sort
-![Screenshot](screenshot.png)
+![alt tag](/images/bubblesort.png)
