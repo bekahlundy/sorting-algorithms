@@ -1,11 +1,13 @@
-const assert = require('chai').assert;
-const { exampleFunction } = require('../lib/station-2.js');
-
-describe('Arrays', () => {
-
-  it('returns the length of the array', () => {
-    const array = ['hello']
-    assert.deepEqual(exampleFunction(array), 1)
-  })
-
-});
+// const assert = require('chai').assert;
+// const { formatEmails } = require('../lib/station-2.js');
+//
+//
+// describe('Email', () => {
+//
+//   it('returns an array of email addresses with all lower-case', () => {
+//     const randomArr = ['Brenna@turing.io', 'tAyLoR@turing.io']
+//     const lowerCaseArr = ['brenna@turing.io', 'taylor@turing.io']
+//     assert.deepEqual(formatEmails(randomArr), lowerCaseArr)
+//   })
+//
+// });
